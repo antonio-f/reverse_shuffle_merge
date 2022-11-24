@@ -1,0 +1,13 @@
+eggegg
+result: egg
+
+
+
+abcdefgabcdefg
+result: agfedcb
+
+
+
+aeiouuoiea
+result: aeiou
+
